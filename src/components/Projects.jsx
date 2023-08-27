@@ -122,51 +122,6 @@ function Projects() {
 
                         <div class="col-md-1 mb-"></div>
 
-                        <div class="col-md-5 card-border pt-3 mb-4 zoom shadow-hover" style={{ width: '463px', marginRight: '17px', }} >
-                            <div class="card ">
-                                <img class="card-img-border"
-                                    src="assets/img/projects/project3.png" alt=""
-                                />
-                                <div class="card-body ps-0">
-                                    <h3 class="fw-bold text-center">Weather App</h3>
-                                    <p class="text-secondary text-center">React/Bootstrap</p>
-                                    <div className="text-center">
-                                        <a
-                                            className="btn btn-warning zoom"
-                                            href=""
-                                            target={"_blank"}
-                                            style={{
-                                                marginRight: '15px',
-                                                textDecoration: 'none',
-                                                backgroundColor: '',
-                                                border: 'none',
-                                                padding: '6px',
-                                                borderRadius: '6px'
-                                            }}
-                                        >
-                                            View Project
-                                        </a>
-
-                                        <a
-                                            className="btn btn-warning zoom"
-                                            href=""
-                                            target={"_blank"}
-                                            style={{
-                                                marginRight: '15px',
-                                                textDecoration: 'none',
-                                                backgroundColor: '',
-                                                border: 'none',
-                                                padding: '6px',
-                                                borderRadius: '6px'
-                                            }}
-                                        >
-                                            View Code
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
                         <div class="col-md-5 card-border pt-3 mb-4 zoom shadow-hover" style={{ width: '463px', marginRight: '15px', }} >
                             <div class="card">
                                 <img class="card-img-border"
@@ -211,6 +166,52 @@ function Projects() {
                                 </div>
                             </div>
                         </div>
+
+                        <div class="col-md-5 card-border pt-3 mb-4 zoom shadow-hover" style={{ width: '463px', marginRight: '17px', }} >
+                            <div class="card ">
+                                <img class="card-img-border"
+                                    src="assets/img/projects/project3.png" alt=""
+                                />
+                                <div class="card-body ps-0">
+                                    <h3 class="fw-bold text-center">Weather App</h3>
+                                    <p class="text-secondary text-center">React/Bootstrap</p>
+                                    <div className="text-center">
+                                        <a
+                                            className="btn btn-warning zoom"
+                                            href="https://jolly-kulfi-5d9b99.netlify.app/"
+                                            target={"_blank"}
+                                            style={{
+                                                marginRight: '15px',
+                                                textDecoration: 'none',
+                                                backgroundColor: '',
+                                                border: 'none',
+                                                padding: '6px',
+                                                borderRadius: '6px'
+                                            }}
+                                        >
+                                            View Project
+                                        </a>
+
+                                        <a
+                                            className="btn btn-warning zoom"
+                                            href="https://github.com/sriprasanth1122/weather-app"
+                                            target={"_blank"}
+                                            style={{
+                                                marginRight: '15px',
+                                                textDecoration: 'none',
+                                                backgroundColor: '',
+                                                border: 'none',
+                                                padding: '6px',
+                                                borderRadius: '6px'
+                                            }}
+                                        >
+                                            View Code
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
 
                         <div class="col-md-1 mb-"></div>
                     </div>
