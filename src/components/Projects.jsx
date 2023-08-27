@@ -178,7 +178,7 @@ function Projects() {
                                     <div className="text-center">
                                         <a
                                             className="btn btn-warning zoom"
-                                            href="https://jolly-kulfi-5d9b99.netlify.app/"
+                                            href="https://kaleidoscopic-brigadeiros-3438b1.netlify.app/"
                                             target={"_blank"}
                                             style={{
                                                 marginRight: '15px',
